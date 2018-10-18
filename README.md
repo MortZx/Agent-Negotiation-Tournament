@@ -9,6 +9,6 @@ See: http://ii.tudelft.nl/negotiation/index.php/Automated_Negotiating_Agents_Com
 'group30.jar' is the file to use to test the agent in the GENIUS platform.
 Instructions to setup the GENIUS system and test this agent will be added at a later date.
 
-Team memebers: Mortimer Sotom and Guilherme Barreiro Vieira.
+Team members: Mortimer Sotom and Guilherme Barreiro Vieira.
 
 Project duration: December 2017 - January 2018
