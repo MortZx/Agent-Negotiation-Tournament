@@ -1,0 +1,8 @@
+sep=;
+Run time (s);Round;Exception;deadline;Agreement;Discounted;#agreeing;min.util.;max.util.;Dist. to Pareto;Dist. to Nash;Social Welfare;Agent 1;Agent 2;Agent 3;Utility 1;Utility 2;Utility 3;Disc. Util. 1;Disc. Util. 2;Disc. Util. 3;Profile 1;Profile 2;Profile 3
+;;failure while running session:Agent AgentLight@0 created an action with invalid content: In DefaultMultilateralProtocol, only the last placed offer can be accepted.;;;;;;;;;;;;;;;;;;;;;
+136.447;9328;;180s;Yes;No;3;0.75333;0.82603;0.00000;0.18646;2.35954;AgentHP2_main@3;AgentLight@4;group30.Agent30@5;0.7533333333333334;0.7801784831796863;0.8260284895971407;0.7533333333333334;0.7801784831796863;0.8260284895971407;party1_utility.xml;party2_utility.xml;party3_utility.xml
+135.476;11714;;180s;Yes;No;3;0.61329;0.87833;0.00000;0.23625;2.22990;group30.Agent30@6;AgentLight@7;AgentHP2_main@8;0.8783333333333334;0.7382820437475793;0.6132873899901766;0.8783333333333334;0.7382820437475793;0.6132873899901766;party1_utility.xml;party2_utility.xml;party3_utility.xml
+136.592;10039;;180s;Yes;No;3;0.71766;0.92857;0.00000;0.00000;2.43122;AgentLight@9;group30.Agent30@10;AgentHP2_main@11;0.7849999999999999;0.9285654723948509;0.7176566046946408;0.7849999999999999;0.9285654723948509;0.7176566046946408;party1_utility.xml;party2_utility.xml;party3_utility.xml
+;;failure while running session:Agent AgentLight@14 created an action with invalid content: In DefaultMultilateralProtocol, only the last placed offer can be accepted.;;;;;;;;;;;;;;;;;;;;;
+;;failure while running session:Agent AgentLight@17 created an action with invalid content: In DefaultMultilateralProtocol, only the last placed offer can be accepted.;;;;;;;;;;;;;;;;;;;;;

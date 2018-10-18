@@ -1,0 +1,8 @@
+sep=;
+Run time (s);Round;Exception;deadline;Agreement;Discounted;#agreeing;min.util.;max.util.;Dist. to Pareto;Dist. to Nash;Social Welfare;Agent 1;Agent 2;Agent 3;Utility 1;Utility 2;Utility 3;Disc. Util. 1;Disc. Util. 2;Disc. Util. 3;Profile 1;Profile 2;Profile 3
+;;failure while running session:Agent AgentLight@0 created an action with invalid content: In DefaultMultilateralProtocol, only the last placed offer can be accepted.;;;;;;;;;;;;;;;;;;;;;
+;;failure while running session:Agent AgentLight@4 created an action with invalid content: In DefaultMultilateralProtocol, only the last placed offer can be accepted.;;;;;;;;;;;;;;;;;;;;;
+152.283;13127;;180s;Yes;No;3;0.69241;0.85649;0.00000;0.09921;2.39723;group30.Agent30@6;AgentLight@7;AgentHP2_main@8;0.8483333333333334;0.8564909885811369;0.6924080946242358;0.8483333333333334;0.8564909885811369;0.6924080946242358;party1_utility.xml;party2_utility.xml;party3_utility.xml
+132.957;9112;;180s;Yes;No;3;0.69241;0.85649;0.00000;0.09921;2.39723;AgentLight@9;group30.Agent30@10;AgentHP2_main@11;0.8483333333333334;0.8564909885811369;0.6924080946242358;0.8483333333333334;0.8564909885811369;0.6924080946242358;party1_utility.xml;party2_utility.xml;party3_utility.xml
+;;failure while running session:Agent AgentLight@14 created an action with invalid content: In DefaultMultilateralProtocol, only the last placed offer can be accepted.;;;;;;;;;;;;;;;;;;;;;
+;;failure while running session:Agent AgentLight@17 created an action with invalid content: In DefaultMultilateralProtocol, only the last placed offer can be accepted.;;;;;;;;;;;;;;;;;;;;;

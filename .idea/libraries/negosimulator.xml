@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="negosimulator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/genius/negosimulator.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/genius/negosimulator.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/genius/negosimulator.jar!/" />
+    </SOURCES>
+  </library>
+</component>

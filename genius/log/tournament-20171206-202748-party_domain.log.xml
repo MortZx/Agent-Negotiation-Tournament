@@ -1,0 +1,49 @@
+<?xml version="1.0" ?><Tournament>
+<NegotiationOutcome currentTime="Wed Dec 06 20:29:40 GMT 2017" lastAction="null" domain="etc/templates/partydomain/party_domain.xml" bids="24377" runtime="111.303599445" finalOutcome="-" startingAgent="-" deadline="180s">
+<resultsOfAgent agent="AgentLight@0" agentDesc="ANAC2016 agentLight" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2016.agentlight.AgentLight" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentHP2_main@1" agentDesc="ANAC2016 agenthp2" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2016.agenthp2.AgentHP2_main" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="group30.Agent30@2" agentDesc="Intelligent Agents Group 30" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="group30.Agent30" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 06 20:30:17 GMT 2017" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="9564" runtime="36.490174375" finalOutcome="-" startingAgent="AgentHP2_main@3" deadline="180s">
+<resultsOfAgent agent="AgentHP2_main@3" agentDesc="ANAC2016 agenthp2" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2016.agenthp2.AgentHP2_main" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentLight@4" agentDesc="ANAC2016 agentLight" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2016.agentlight.AgentLight" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="group30.Agent30@5" agentDesc="Intelligent Agents Group 30" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="group30.Agent30" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 06 20:32:50 GMT 2017" timeOfAgreement="0.8460177551388889" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="34517" runtime="152.282941088" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ]" startingAgent="group30.Agent30@6" deadline="180s">
+<resultsOfAgent agent="group30.Agent30@6" agentDesc="Intelligent Agents Group 30" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="group30.Agent30" finalUtility="0.8483333333333334" discountedUtility="0.8483333333333334" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentLight@7" agentDesc="ANAC2016 agentLight" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2016.agentlight.AgentLight" finalUtility="0.8564909885811369" discountedUtility="0.8564909885811369" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentHP2_main@8" agentDesc="ANAC2016 agenthp2" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.anac.y2016.agenthp2.AgentHP2_main" finalUtility="0.6924080946242358" discountedUtility="0.6924080946242358" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 06 20:35:03 GMT 2017" timeOfAgreement="0.7386519266722222" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="27298" runtime="132.956970141" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ]" startingAgent="AgentLight@9" deadline="180s">
+<resultsOfAgent agent="AgentLight@9" agentDesc="ANAC2016 agentLight" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2016.agentlight.AgentLight" finalUtility="0.8483333333333334" discountedUtility="0.8483333333333334" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="group30.Agent30@10" agentDesc="Intelligent Agents Group 30" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="group30.Agent30" finalUtility="0.8564909885811369" discountedUtility="0.8564909885811369" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentHP2_main@11" agentDesc="ANAC2016 agenthp2" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.anac.y2016.agenthp2.AgentHP2_main" finalUtility="0.6924080946242358" discountedUtility="0.6924080946242358" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 06 20:37:15 GMT 2017" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: Band, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="24480" runtime="131.507684766" finalOutcome="-" startingAgent="AgentHP2_main@12" deadline="180s">
+<resultsOfAgent agent="AgentHP2_main@12" agentDesc="ANAC2016 agenthp2" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2016.agenthp2.AgentHP2_main" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="group30.Agent30@13" agentDesc="Intelligent Agents Group 30" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="group30.Agent30" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentLight@14" agentDesc="ANAC2016 agentLight" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.anac.y2016.agentlight.AgentLight" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 06 20:39:12 GMT 2017" lastAction="(Offer  bid:Bid[Food: Handmade Food, Drinks: Handmade Cocktails, Location: Party Tent, Invitations: Plain, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="22629" runtime="116.834957791" finalOutcome="-" startingAgent="group30.Agent30@15" deadline="180s">
+<resultsOfAgent agent="group30.Agent30@15" agentDesc="Intelligent Agents Group 30" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="group30.Agent30" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentHP2_main@16" agentDesc="ANAC2016 agenthp2" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2016.agenthp2.AgentHP2_main" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentLight@17" agentDesc="ANAC2016 agentLight" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.anac.y2016.agentlight.AgentLight" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Tournament>

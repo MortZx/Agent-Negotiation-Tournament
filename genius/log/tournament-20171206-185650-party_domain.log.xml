@@ -1,0 +1,49 @@
+<?xml version="1.0" ?><Tournament>
+<NegotiationOutcome currentTime="Wed Dec 06 18:59:49 GMT 2017" timeOfAgreement="0.9893388883555556" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="28582" runtime="178.076037891" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ]" startingAgent="-" deadline="180s">
+<resultsOfAgent agent="YXAgent@0" agentDesc="ANAC2016 YXagent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2016.yxagent.YXAgent" finalUtility="0.8483333333333334" discountedUtility="0.8483333333333334" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Atlas3@1" agentDesc="ANAC2015-6-Atlas" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2015.Atlas3.Atlas3" finalUtility="0.8564909885811369" discountedUtility="0.8564909885811369" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="group30.Agent30@2" agentDesc="Intelligent Agents Group 30" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="group30.Agent30" finalUtility="0.6924080946242358" discountedUtility="0.6924080946242358" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 06 19:02:48 GMT 2017" timeOfAgreement="0.9936192681444445" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="31607" runtime="178.851137551" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ]" startingAgent="Atlas3@3" deadline="180s">
+<resultsOfAgent agent="Atlas3@3" agentDesc="ANAC2015-6-Atlas" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2015.Atlas3.Atlas3" finalUtility="0.8483333333333334" discountedUtility="0.8483333333333334" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="YXAgent@4" agentDesc="ANAC2016 YXagent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2016.yxagent.YXAgent" finalUtility="0.8564909885811369" discountedUtility="0.8564909885811369" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="group30.Agent30@5" agentDesc="Intelligent Agents Group 30" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="group30.Agent30" finalUtility="0.6924080946242358" discountedUtility="0.6924080946242358" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 06 19:05:48 GMT 2017" timeOfAgreement="0.9984898552444444" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Tent, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="31767" runtime="179.727967738" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Tent, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ]" startingAgent="group30.Agent30@6" deadline="180s">
+<resultsOfAgent agent="group30.Agent30@6" agentDesc="Intelligent Agents Group 30" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="group30.Agent30" finalUtility="0.69" discountedUtility="0.69" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="YXAgent@7" agentDesc="ANAC2016 YXagent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2016.yxagent.YXAgent" finalUtility="0.8522529669934003" discountedUtility="0.8522529669934003" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Atlas3@8" agentDesc="ANAC2015-6-Atlas" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.anac.y2015.Atlas3.Atlas3" finalUtility="0.8512769996675457" discountedUtility="0.8512769996675457" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 06 19:08:48 GMT 2017" timeOfAgreement="0.9986193565055554" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Ballroom, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="29328" runtime="179.751081241" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Ballroom, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ]" startingAgent="YXAgent@9" deadline="180s">
+<resultsOfAgent agent="YXAgent@9" agentDesc="ANAC2016 YXagent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2016.yxagent.YXAgent" finalUtility="0.8008333333333335" discountedUtility="0.8008333333333335" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="group30.Agent30@10" agentDesc="Intelligent Agents Group 30" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="group30.Agent30" finalUtility="0.7583749102078432" discountedUtility="0.7583749102078432" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Atlas3@11" agentDesc="ANAC2015-6-Atlas" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.anac.y2015.Atlas3.Atlas3" finalUtility="0.8082124369340867" discountedUtility="0.8082124369340867" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 06 19:11:48 GMT 2017" timeOfAgreement="0.9970169886777778" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Ballroom, Invitations: Photo, Music: MP3, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="29451" runtime="179.462964323" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Ballroom, Invitations: Photo, Music: MP3, Cleanup: Water and Soap, ]" startingAgent="Atlas3@12" deadline="180s">
+<resultsOfAgent agent="Atlas3@12" agentDesc="ANAC2015-6-Atlas" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2015.Atlas3.Atlas3" finalUtility="0.75" discountedUtility="0.75" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="group30.Agent30@13" agentDesc="Intelligent Agents Group 30" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="group30.Agent30" finalUtility="0.6492052699137503" discountedUtility="0.6492052699137503" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="YXAgent@14" agentDesc="ANAC2016 YXagent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.anac.y2016.yxagent.YXAgent" finalUtility="0.8257253847967664" discountedUtility="0.8257253847967664" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 06 19:14:47 GMT 2017" timeOfAgreement="0.9943274860277778" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Ballroom, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="31775" runtime="178.978229419" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Ballroom, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ]" startingAgent="group30.Agent30@15" deadline="180s">
+<resultsOfAgent agent="group30.Agent30@15" agentDesc="Intelligent Agents Group 30" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="group30.Agent30" finalUtility="0.7375" discountedUtility="0.7375" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Atlas3@16" agentDesc="ANAC2015-6-Atlas" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2015.Atlas3.Atlas3" finalUtility="0.8304493940215574" discountedUtility="0.8304493940215574" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="YXAgent@17" agentDesc="ANAC2016 YXagent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.anac.y2016.yxagent.YXAgent" finalUtility="0.8334609470044917" discountedUtility="0.8334609470044917" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Tournament>
