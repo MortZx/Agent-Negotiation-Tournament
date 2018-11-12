@@ -1,4 +1,4 @@
-# README file for Intelligent Agent ANAC Competition
+# Intelligent Agent ANAC Competition
 
 This agent was developed for a multi-lateral, multi-issue, time-based negotiation with uncertainty about the opponents' preferences with the aim of maximising its own utility while minimising the distance to the Nash equilibrium.
 
